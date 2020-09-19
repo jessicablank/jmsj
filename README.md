@@ -30,7 +30,7 @@ Navigate to the login page: [https://jmsj2.herokuapp.com/login.html](https://jms
 
 Login using these test credentials and search for binges!
 * E-mail Address: binger@email.com
-* p@ssw0rd!
+* Password: p@ssw0rd!
 
 ## Local Installation
 
