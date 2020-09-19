@@ -1,8 +1,9 @@
 # The Binge Guide
 
 [![GitHub issues](https://img.shields.io/github/issues/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/issues)
-
  [![Badge](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
+ [![GitHub forks](https://img.shields.io/github/forks/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/network)
+
  
  📺[Deployed on Heroku:  https://jmsj2.herokuapp.com/]( https://jmsj2.herokuapp.com/)
 
@@ -17,13 +18,21 @@ See the URL for the deployed application:
 
 ## Table of Contents
 
-* [Installation](#installation)
+* [Local Installation](#local-installation)
+* [Quick Start](#quick-start)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 
+## Quick Start
 
-## Installation
+Navigate to the login page: [https://jmsj2.herokuapp.com/login.html](https://jmsj2.herokuapp.com/login.html)
+
+Login using these test credentials and search for binges!
+* E-mail Address: binger@email.com
+* p@ssw0rd!
+
+## Local Installation
 
 - CREATE and USE a database named ```binge_db```
 - Run ```npm install``` in the command-line in order to install all of the dependencies required for the application
