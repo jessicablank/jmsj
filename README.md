@@ -1,8 +1,7 @@
 # The Binge Guide
-
-[![GitHub issues](https://img.shields.io/github/issues/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/issues)
- [![Badge](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
- [![GitHub forks](https://img.shields.io/github/forks/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/network)
+[![Build Status](https://travis-ci.org/jessicablank/jmsj.svg?branch=master)](https://travis-ci.org/jessicablank/jmsj)
+[![Badge](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
+[![GitHub forks](https://img.shields.io/github/forks/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/network)
 
  
  📺[Deployed on Heroku:  https://jmsj2.herokuapp.com/]( https://jmsj2.herokuapp.com/)
