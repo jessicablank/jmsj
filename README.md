@@ -1,6 +1,10 @@
 # The Binge Guide
 
-  [![Badge](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/jessicablank/jmsj)](https://github.com/jessicablank/jmsj/issues)
+
+ [![Badge](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
+ 
+ 📺[Deployed on Heroku:  https://jmsj2.herokuapp.com/]( https://jmsj2.herokuapp.com/)
 
 ## Description 
 
@@ -9,7 +13,7 @@ An application for a user to search show and movie titles to see which platform 
 The technologies used in this application are:
 Node.js, Express, handlebars, passport, sequelize, jQuery, Utelly API, JavaScript, HTML, and CSS
 
-See the URL for the deployed application: https://jmsj2.herokuapp.com/
+See the URL for the deployed application:
 
 ## Table of Contents
 
