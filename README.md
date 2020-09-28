@@ -8,7 +8,7 @@
 
 ## Description 
 
-An application for a user to search show and movie titles to see which platform (Netflix, Hulu, AppleTV etc.) they can watch their show or movie. The user must sign-up for the app and then log-in with a username and password. The user can save shows/movies in columns for binging in the future, currently binging, and finished binging. The user then logs-out when finished using the app. They can log back in any time to find out where and what to start binging on.
+Plan your next binge! This application uses an API to search for a show or movie's at-home platfor, such as Netflix, Hulu, or Apple TV. You can save the binge to watch later, keep track of which binge you are actively watching, and mark binges as complete. 
 
 The technologies used in this application are:
 Node.js, Express, handlebars, passport, sequelize, jQuery, Utelly API, JavaScript, HTML, and CSS
